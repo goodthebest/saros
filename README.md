@@ -1,4 +1,4 @@
-Saros a crypto currency coin based on Neoscrypt alogrithm. Install right from the git repo, instructions are provided in doc/Install.md. If you still need help to install wallet daemon or configure it to setup with your mining pool you can get paid server via here https://github.com/goodthebest
+Saros a crypto currency coin based on x11 alogrithm. Install right from the git repo, instructions are provided in doc/Install.md. If you still need help to install wallet daemon or configure it to setup with your mining pool you can get paid server via here https://github.com/goodthebest
 
 Specifications
 --------------
