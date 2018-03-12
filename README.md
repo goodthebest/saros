@@ -1,3 +1,31 @@
+Saros a crypto currency coin based on Neoscrypt alogrithm. Install right from the git repo, instructions are provided in doc/Install.md. If you still need help to install wallet daemon or configure it to setup with your mining pool you can get paid server via here https://github.com/goodthebest
+
+Specifications
+--------------
+
+Name: SAROS
+Ticker: SAROS
+Mining algorithm: X11
+Max Supply: 22M (2050 year)
+Block Time: 60s
+Premine: 5%
+Reward halving: 25% per year
+
+Masternode:
+Masternode Collateral: 1500 SAROS
+Masternode Reward: 50%
+Block Reward = 10 SAROS 
+Tx Fee = 0.001
+Mainnet
+-P2P Port: 9891
+-RPC Port: 8992
+addnode=207.246.71.251
+addnode=45.77.64.146
+addnode=45.77.64.146
+addnode=207.246.71.251
+
+
+
 Saros Core staging tree 0.12.1
 ===============================
 
